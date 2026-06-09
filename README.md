@@ -1,23 +1,16 @@
-<p align="center">
-  <pre align="center">
+```
    __ _ ___ _ __ ___ (_)
   / _` / _ \ '_ ` _ \| |
  | (_| \__/ | | | | | |
   \__, \___|_| |_| |_|_|
    __/ |
   |___/
-  </pre>
-  <strong>Free AI coding agent for your terminal.</strong><br>
-  Multi-account key rotation. 9 providers. Auto-failover. Never pay for AI coding.
-</p>
+```
 
-<p align="center">
-  <a href="#installation">Install</a> •
-  <a href="#quick-start">Quick Start</a> •
-  <a href="#supported-providers">Providers</a> •
-  <a href="#the-never-pay-setup">Never Pay Setup</a> •
-  <a href="#features">Features</a>
-</p>
+**Free AI coding agent for your terminal.**
+Multi-account key rotation. 9 providers. Auto-failover. Never pay for AI coding.
+
+[Install](#installation) • [Quick Start](#quick-start) • [Providers](#supported-providers) • [Never Pay Setup](#the-never-pay-setup) • [Features](#features)
 
 ---
 
@@ -40,7 +33,7 @@ pipx install gemi-cli
 pip install gemi-cli
 
 # From source
-git clone https://github.com/AyeAI-Dev/gemi.git
+git clone https://github.com/parteekahlawat/gemi-cli.git
 cd gemi
 pip install -e .
 
@@ -439,8 +432,4 @@ MIT
 
 ---
 
-<p align="center">
-  <strong>Built by <a href="https://a79.ai">a79.ai</a></strong><br>
-  <a href="https://github.com/AyeAI-Dev/gemi">GitHub</a> •
-  <a href="https://github.com/AyeAI-Dev/gemi/issues">Issues</a>
-</p>
+**Built by [a79.ai](https://a79.ai)** — [GitHub](https://github.com/parteekahlawat/gemi-cli) • [Issues](https://github.com/parteekahlawat/gemi-cli/issues)
